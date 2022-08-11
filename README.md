@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
-- 📝 I regularly document my fitness journey [tiktok.com/loveeeeeeeth & instagram.com/mztarie](tiktok.com/loveeeeeeeth & instagram.com/mztarie)
+- 📝 I regularly document my fitness journey (tiktok.com/loveeeeeeeth & instagram.com/mztarie)
 
 - 💬 Ask me about **JavaScript, Node, CSS, Fitness**
 
