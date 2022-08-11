@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovethtee" alt="lovethtee" /></a> </p>
 
-- 🔭 I’m currently working on [my 100hrs passion project](lovethw.com)
+- 🔭 I’m currently working on [my 100hrs passion project for Neonatal ICU patients & families](lovethw.com)
 
 - 🌱 I’m currently learning **Node,Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
-- 📝 I regularly document my fitness journey (tiktok.com/loveeeeeeeth & instagram.com/mztarie)
+- :muscle: I regularly document my fitness journey [www.instagram.com/mztarie](instagram.com/mztarie)
 
-- 💬 Ask me about **JavaScript, Node, CSS, Fitness**
+- 💬 Ask me about **JavaScript, Node, CSS, Fitness :muscle:**
 
 - 📫 How to reach me **lovegula@yahoo.com**
 
