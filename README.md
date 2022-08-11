@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
-- :muscle: I regularly document my fitness journey [www.instagram.com/mztarie](instagram.com/mztarie)
+- :muscle: I regularly document my fitness journey on [www.instagram.com/mztarie](instagram.com/mztarie)
 
 - 💬 Ask me about **JavaScript, Node, CSS, Fitness :muscle:**
 
