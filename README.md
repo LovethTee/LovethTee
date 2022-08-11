@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovethtee" alt="lovethtee" /></a> </p>
 
-- 🔭 I’m currently working on [my 100hrs passion project](lovethw.com)
+- 🔭 I’m currently working on [my 100hrs passion project for Neonatal ICU patients and families](lovethw.com)
 
 - 🌱 I’m currently learning **Node,Express, MongoDB**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [www.linkedin/in/loveth-werimegbe](www.linkedin/in/loveth-werimegbe)
 
-- ⚡ Fun fact **I regularly train without music**
+- ⚡ Fun fact **I can go through a weight-lifting session without music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
