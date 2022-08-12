@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, Node, CSS, Fitness :muscle:**
 
-- 📫 How to reach me **lovegula@yahoo.com**
+- :e-mail: How to reach me **lovegula@yahoo.com**
 
 - 📄 Know about my experiences [www.linkedin/in/loveth-werimegbe](www.linkedin/in/loveth-werimegbe)
 
