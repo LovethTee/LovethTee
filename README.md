@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Loveth</h1>
+<h1 align="center">Hi 👋🏿, I'm Loveth</h1>
 <h3 align="center">A passionate Software Developer from based in Canada</h3>
 
 - 🔭 I’m currently working on [my 100hrs passion project for Neonatal ICU patients & families](lovethw.com)
 
 - 🌱 I’m currently learning **Node,Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
+- 👩🏿‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
-- :muscle: I regularly document my fitness journey on [www.instagram.com/mztarie](instagram.com/mztarie)
+- 💪🏿 I regularly document my fitness journey on [www.instagram.com/mztarie](instagram.com/mztarie)
 
-- 💬 Ask me about **JavaScript, Node, CSS, Fitness :muscle:**
+- 💬 Ask me about **JavaScript, Node, CSS, Fitness🏋🏿‍♀️**
 
 - :e-mail: How to reach me **lovegula@yahoo.com**
 
-- 📄 Know about my experiences [www.linkedin/in/loveth-werimegbe](www.linkedin/in/loveth-werimegbe)
+- 💼 Know about my experiences [www.linkedin/in/loveth-werimegbe](www.linkedin/in/loveth-werimegbe)
 
-- ⚡ Fun fact **I get through my weight-lifting sessions without music**
+- 🤸🏿‍♀️ Fun fact **I get through my weight-lifting sessions without music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
