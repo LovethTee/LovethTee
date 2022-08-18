@@ -15,7 +15,7 @@
 
 - 💼 Know about my experiences [www.linkedin/in/loveth-werimegbe](www.linkedin/in/loveth-werimegbe)
 
-- 🤸🏿‍♀️ Fun fact **I get through my weight-lifting sessions without music**
+- 🤸🏿‍♀️ Fun fact **I can get through my weight-lifting sessions without music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
