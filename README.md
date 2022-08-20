@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my 100hrs passion project for Neonatal ICU patients & families](lovethw.com)
 
-- 🌱 I’m currently learning **Node,Express, MongoDB & React**
+- 🌱 I’m currently learning **MongoDB, Express, React & Node**
 
 - 👩🏿‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
