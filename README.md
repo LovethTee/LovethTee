@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏿, I'm Loveth</h1>
 <h3 align="center">A passionate Software Developer based in Canada</h3>
 
-- 🔭 I’m currently working on [my 100hrs passion project for Neonatal ICU babies & families](lovethw.com)
+- 🔭 I’m currently working on [the CCCG testimony bank app](lovethw.com)
 
 - 🌱 I’m currently learning **MongoDB, Express, React & Node**
 
