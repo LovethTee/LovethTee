@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [the CCCG testimony bank app](lovethw.com)
 
-- 🌱 I’m currently learning **MongoDB, Express, React & Node**
+- 🌱 I’m currently learning **React & PostgreSQL**
 
 - 👩🏿‍💻 All of my projects are available at [www.lovethw.com](www.lovethw.com)
 
